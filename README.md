@@ -1,4 +1,4 @@
-# survey-meta-learning
+# survey-continual-learning
 
 * [ ] [Beaulieu, S., Frati, L., Miconi, T., Lehman, J., Stanley, K. O., Clune, J., & Cheney, N. (2020). Learning to continually learn. arXiv preprint arXiv:2002.09571.](https://github.com/CompML/survey-meta-learning/issues/1)
 * [ ] [Javed, K., & White, M. (2019). Meta-learning representations for continual learning. arXiv preprint arXiv:1905.12588.](https://github.com/CompML/survey-meta-learning/issues/2)
